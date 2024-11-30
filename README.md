@@ -1,3 +1,6 @@
 # High-Sensitive-Fiber-Specklegram-Sensor
 
 Optical Fiber Specklegram Sensors (FSS) offer an appealing solution for environmental sensing due to their straightforward sensing arrangement and processable digital output, which encodes rich information. These sensors utilize the interference pattern changes observed in the cross-sectional area of a multimode optical fiber (MMF) to measure various chemical and physical quantities in the surrounding environment. In our lab, we present an FSS structure capable of accurately measuring environmental parameters. To train and test our model, we recorded an image dataset of fiber output speckles with a microfiber immersed in seven distinct solutions. These solutions were carefully selected to possess varying refractive indices while being closely related to one another. By leveraging this dataset, we trained a deep neural network to analyze the speckle patterns and extract meaningful information. The obtained results demonstrate a remarkable accuracy of 99.26% in the classification of the seven solutions based on their refractive indices.
+
+Link of Captured images which forms the Dataset (speckle salt solutions):
+https://www.kaggle.com/datasets/mojtabaakbari66/speckle-salt-solutions
